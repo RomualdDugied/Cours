@@ -1,0 +1,37 @@
+TD du 02/02/22
+
+Banque: BankOfFSS
+
+
+Vue :
+
+- Environnement : Terminal
+
+- Invitation à se logger à la connexion : UserID / Password
+
+- Menu Principal :
+	1 / Afficher détail infos client
+	2 / Afficher synthèse des comptes
+	3 / Afficher l'historique d'un compte
+		-> choisir compte
+	4 / Faire un virement
+		-> choisir compte
+
+
+Modèle :
+
+- 1 fichier JSON utilisateurs:
+	- Mot de passe (en option chiffrement)
+	- Nom / Prénom / Date de naissance
+	- Adresse complète
+	- Pays
+	- Numéro de téléphone
+	- liste des comptes ouvert
+
+- 1 fichier JSON par compte avec les mouvements
+	- ID
+	- Date du mouvement
+	- Destinataire/Origine
+	- Type (Debit/Credit)
+	- Montant
+	

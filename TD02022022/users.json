@@ -1,0 +1,38 @@
+{
+    "02505626453":{
+        "last_name": "White",
+        "first_name": "Walter",
+        "password": "meth",
+        "phone_number": "555-123-56",
+        "address":
+        {
+            "address_line1": "3838 Piermont Drive",
+            "address_line2": "",
+            "postal_code": "87101",
+            "locality": "Albuquerque",
+            "country": "USA"
+        },
+        "account":[
+            "0128512401",
+            "0128512402"
+        ]
+    },
+    "02505626454":{
+        "last_name": "Pinkman",
+        "first_name": "Jessie",
+        "password": "moremeth",
+        "phone_number": "555-643-23",
+        "address":
+        {
+            "address_line1": "9809 Margo Street",
+            "address_line2": "",
+            "postal_code": "87101",
+            "locality": "Albuquerque",
+            "country": "USA"
+        },
+        "account":[
+            "0128524601",
+            "0128524602"
+        ]
+    }
+}

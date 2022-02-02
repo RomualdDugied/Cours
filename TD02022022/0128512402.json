@@ -1,0 +1,10 @@
+{
+    "type": "saving account",
+    "pre-authorized overdraft": 0,
+    "record":[
+        [10001, "01/01/2021", "Cash Deposit", true, 500000],
+        [10002, "01/02/2021", "Cash Deposit", true, 1500000],
+        [10003, "01/03/2021", "Cash Deposit", true, 2500000],
+        [10005, "01/04/2021", "Cash Deposit", true, 2500000]
+    ]
+}

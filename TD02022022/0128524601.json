@@ -1,0 +1,10 @@
+{
+    "type": "checking account",
+    "pre-authorized overdraft": 200,
+    "record":[
+        [10001, "01/01/2021", "Cash Deposit", true, 60000],
+        [10002, "03/01/2021", "CB Payment at Walmart", false, 20600],
+        [10003, "10/01/2021", "Cash at ATM", false, 20000],
+        [10005, "12/01/2021", "CB Payment at Walmart", false, 30000],
+    ]
+}
