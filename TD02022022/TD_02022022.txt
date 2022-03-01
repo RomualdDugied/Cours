@@ -13,7 +13,7 @@ Vue :
 	1 / Afficher détail infos client
 	2 / Afficher synthèse des comptes
 	3 / Afficher l'historique d'un compte
-		-> choisir compte
+		-> choisir compteÐÐÐ
 	4 / Faire un virement
 		-> choisir compte
 
