@@ -10,6 +10,7 @@ class Point1():
     def __init__(self, x: float, y: float) -> None:
         self.x_coordinate = x
         self.y_coordinate = y
+        print()
 
 
 class Point():
